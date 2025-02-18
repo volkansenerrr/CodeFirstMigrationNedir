@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|solutionrelative:codefirstmigrationnedir\\controllers\\etkinlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|c:\\users\\alp\\source\\repos\\codefirstmigrationnedir\\codefirstmigrationnedir\\views\\etkinlik\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|C:\\Users\\Alp\\source\\repos\\CodeFirstMigrationNedir\\codefirstmigrationnedir\\views\\etkinlik\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|solutionrelative:codefirstmigrationnedir\\views\\etkinlik\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|c:\\users\\alp\\source\\repos\\codefirstmigrationnedir\\codefirstmigrationnedir\\views\\etkinlik\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|C:\\Users\\Alp\\source\\repos\\CodeFirstMigrationNedir\\codefirstmigrationnedir\\views\\etkinlik\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|solutionrelative:codefirstmigrationnedir\\views\\etkinlik\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|c:\\users\\alp\\source\\repos\\codefirstmigrationnedir\\codefirstmigrationnedir\\models\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|C:\\Users\\Alp\\source\\repos\\CodeFirstMigrationNedir\\codefirstmigrationnedir\\models\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|solutionrelative:codefirstmigrationnedir\\models\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|c:\\users\\alp\\source\\repos\\codefirstmigrationnedir\\codefirstmigrationnedir\\views\\etkinlik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|C:\\Users\\Alp\\source\\repos\\CodeFirstMigrationNedir\\codefirstmigrationnedir\\views\\etkinlik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E45169A-6DE2-4FA3-8C02-36379C462CEC}|CodeFirstMigrationNedir\\CodeFirstMigrationNedir.csproj|solutionrelative:codefirstmigrationnedir\\views\\etkinlik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -65,8 +65,7 @@
               "RelativeToolTip": "CodeFirstMigrationNedir\\Views\\Etkinlik\\Ekle.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:47:35.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:47:35.114Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "CodeFirstMigrationNedir\\Views\\Etkinlik\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:42:03.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:42:03.371Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "CodeFirstMigrationNedir\\Models\\Etkinlik.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:37:20.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:37:20.432Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "CodeFirstMigrationNedir\\Views\\Etkinlik\\Duzenle.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:17:08.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:17:08.074Z"
             }
           ]
         }
