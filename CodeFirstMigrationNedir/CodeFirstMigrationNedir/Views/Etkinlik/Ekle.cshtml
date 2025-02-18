@@ -1,0 +1,47 @@
+﻿@model CodeFirstMigrationNedir.Models.Etkinlik
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="formTasiyici">
+    <div class="formBaslik">
+        <h2>Etkinlik Ekle</h2>
+    </div>
+    <div class="formIcerik">
+
+        @if (ViewBag.hataMesaj != null)
+        {
+            <label style="color:red">@ViewBag.hataMesaj</label>
+        }
+
+        @using (Html.BeginForm("Ekle","Etkinlik", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="satir">
+                <label>Isim</label><br />
+                @Html.EditorFor(x=> x.Isim, new { htmlAttributes=new {@class="metinKutuZorunlu", @autocomplete="off" } })
+                @*<label class="hataMesaj">(*)</label>*@
+                @Html.ValidationMessageFor(x=> x.Isim,null, htmlAttributes: new {@class="hataMesaj"})
+            </div>
+            <div class="satir">
+                <label>Tarih</label><br />
+                @Html.EditorFor(x => x.Tarih, new { htmlAttributes = new { @class = "metinKutu" } })
+                @Html.ValidationMessageFor(x => x.Tarih, null, htmlAttributes: new { @class = "hataMesaj" })
+            </div>
+            <div class="satir">
+                <label>Resim</label><br />
+                <input type="file" class="metinKutu" name="dosyaResim"/>
+            </div>
+            <div class="satir">
+                <label>Durum</label>
+                @Html.EditorFor(x=> x.Durum)
+            </div>
+            <div class="satir">
+                <input type="submit" value="Etkinlik Ekle" class="ekleButton"/>
+            </div>
+        }
+    </div>
+</div>
+
+
+

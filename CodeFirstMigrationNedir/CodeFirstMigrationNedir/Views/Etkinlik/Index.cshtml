@@ -1,0 +1,36 @@
+﻿@using CodeFirstMigrationNedir.Models
+@model ICollection<Etkinlik>
+@{
+    ViewBag.Title = "Etkinlikler";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Etkinlikler</h2>
+<hr />
+<table width="100%" cellspacing="0" class="tablo">
+    <tr>
+        <th >Resim</th>
+        <th>ID</th>
+        <th>Isim</th>
+        <th>Tarih</th>
+        <th>Durum</th>
+        <th>Seçenekler</th>
+    </tr>
+    @foreach (Etkinlik item in Model)
+    {
+        <tr>
+            <td align="center">
+                <img src="~/Assets/etkinlikResimleri/@item.Resim" width="80" />
+            </td>
+            <td>@item.ID</td>
+            <td>@item.Isim</td>
+            <td>@item.Tarih.ToShortDateString()</td>
+            <td>@item.Durum</td>
+            <td align="center">
+                <a href="@Url.Action("Duzenle","Etkinlik", new {id = @item.ID})" class="tablobutonu duzenle">Düzenle</a>
+                <a href="@Url.Action("Sil", "Etkinlik")" class="tablobutonu sil">Sil</a>
+            </td>
+        </tr>
+    }
+</table>
+

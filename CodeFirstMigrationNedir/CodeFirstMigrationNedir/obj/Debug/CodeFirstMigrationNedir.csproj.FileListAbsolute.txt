@@ -1,76 +1,76 @@
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.dll.config
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.pdb
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.exe
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.exe.config
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.rsp
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.exe
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.exe.config
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.rsp
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.AppContext.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Console.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.Compression.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Net.Http.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Net.Sockets.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.ValueTuple.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XPath.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.exe
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.exe.config
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.rsp
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\VBCSCompiler.exe
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.SqlServer.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Helpers.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Mvc.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Razor.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Deployment.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Razor.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.SqlServer.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Razor.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Deployment.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Razor.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Helpers.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Mvc.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.csproj.AssemblyReference.cache
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.csproj.CoreCompileInputs.cache
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirs.5BE28CAF.Up2Date
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.dll
-C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.pdb
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.dll.config
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\CodeFirstMigrationNedir.pdb
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.exe
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.exe.config
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csc.rsp
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.exe
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.exe.config
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\csi.rsp
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.AppContext.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Console.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Net.Http.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.exe
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.exe.config
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\vbc.rsp
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.SqlServer.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Helpers.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Mvc.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Razor.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\EntityFramework.SqlServer.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Razor.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Helpers.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\System.Web.Mvc.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirs.5BE28CAF.Up2Date
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.dll
+C:\Users\Alp\source\repos\CodeFirstMigrationNedir\CodeFirstMigrationNedir\obj\Debug\CodeFirstMigrationNedir.pdb

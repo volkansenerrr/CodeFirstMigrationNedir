@@ -10,12 +10,16 @@ namespace CodeFirstMigrationNedir.Models
     public class Soru
     {
         public int ID { get; set; }
-        public int? Etkinlik_ID { get; set; }
+
+        public int Etkinlik_ID { get; set; }
+
         [ForeignKey("Etkinlik_ID")]
         public virtual Etkinlik Etkinlik { get; set; }
+
         [Required]
         [StringLength(maximumLength:250)]
         public string Isim { get; set; }
-        public string Metin {  get; set; }
+
+        public string Metin { get; set; }
     }
 }

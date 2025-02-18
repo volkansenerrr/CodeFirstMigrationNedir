@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Assets/css/MainLayout.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="menu">
+        <h2>Etkinlik Oluşturucu</h2>
+    </div>
+    <div>
+        <div class="solmenu">
+            <a href="@Url.Action("Home","Index")">Anasayfa</a>
+            <a href="@Url.Action("Etkinlik","Index")">Etkinlikler</a>
+        </div>
+        <div class="icerikTasiyici">
+            @RenderBody()
+        </div>
+    </div>
+   
+</body>
+</html>

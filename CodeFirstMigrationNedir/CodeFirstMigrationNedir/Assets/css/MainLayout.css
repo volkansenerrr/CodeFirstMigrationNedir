@@ -1,0 +1,102 @@
+﻿*,h1,h2,h3,h4,h5,h6{
+    margin:0;
+    padding:0;
+}
+body {
+    font-family:Calibri;
+}
+.menu
+{
+    padding:10px;
+    background-color:deeppink;
+    color:white;
+}
+.solmenu
+{
+    float:left;
+    width:200px;
+    background-color:#fce7f2;
+    min-height:1000px;
+}
+.solmenu a{
+    display:block;
+    text-decoration:none;
+    margin:10px;
+    border-bottom:1px solid silver;
+}
+.icerikTasiyici
+{
+    float:left;
+    width:1000px;
+    padding:10px;
+}
+.formTasiyici{
+
+}
+.formBaslik
+{
+    background-color:aliceblue;
+    border:1px solid silver;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    padding:10px;
+}
+.formIcerik {
+    border: 1px solid silver;
+    padding:10px;
+}
+.satir{
+    padding:10px;
+}
+.metinKutu {
+    width: 90%;
+    font-size: 12pt;
+    padding: 10px;
+    border:1px solid silver;
+    border-radius: 5px;
+}
+.metinKutuZorunlu {
+    width: 90%;
+    font-size: 12pt;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.ekleButton
+{
+    padding:10px 30px;
+    background-color:deeppink;
+    color:white;
+    border:1px solid deeppink;
+    border-radius:5px;
+}
+.hataMesaj{
+    display:block;
+    color:red;
+}
+.tablo
+{
+
+}
+.tablo tr th{
+    border:1px solid silver;
+    background-color:#efefef;
+    padding:10px;
+}
+    .tablo tr td {
+        border: 1px solid silver;
+        padding: 5px;
+    }
+    .tablo .tablobutonu{
+        border-radius:3px;
+        padding:5px;
+        color:white;
+        text-decoration:none;
+    }
+    .duzenle{
+        background-color:deeppink;
+    }
+    .sil{
+        background-color:darkred;
+    }
+

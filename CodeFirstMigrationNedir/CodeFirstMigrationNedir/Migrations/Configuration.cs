@@ -16,7 +16,6 @@
         protected override void Seed(CodeFirstMigrationNedir.Models.EtkinlikArsivModel context)
         {
             context.Etkinlikler.AddOrUpdate(x => x.ID, new Models.Etkinlik() { ID = 1, Isim = "Yapay Zeka Kulübü Yarışma", Tarih = DateTime.Now, Durum = true });
-
         }
     }
 }
